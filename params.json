@@ -1,0 +1,6 @@
+{
+  "name": "vNugglets.GitHub.io",
+  "tagline": "vNugglets' GitHub Places of Interest",
+  "body": "### Projects:\r\nvNugglets projects on GitHub:\r\n* [vNuggletsPSMod](https://github.com/vNugglets/vNuggletsPSMod) (home of `vNugglets.Utility` PowerShell module)\r\n\r\n### Examples pages:\r\nvNugglets GitHub Pages pages for projects (places with examples pertaining to the given project):\r\n* [vNuggletsPSMod Examples](https://vNugglets.github.io/vNuggletsPSMod) (for `vNugglets.Utility` PowerShell module)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
