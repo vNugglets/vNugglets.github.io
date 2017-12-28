@@ -1,0 +1,8 @@
+title: vNugglets.GitHub.io
+description: vNugglets' GitHub Places of Interest
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
