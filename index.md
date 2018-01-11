@@ -6,3 +6,4 @@ vNugglets projects on GitHub:
 ### Examples pages:
 vNugglets GitHub Pages pages for projects (places with examples pertaining to the given project):
 * [vNuggletsPSMod Examples](https://vNugglets.github.io/vNuggletsPSMod) (for `vNugglets.Utility` PowerShell module)
+* [vNuggletsPSMod for VDNetworking](https://vnugglets.github.io/vNuggletsPSMod_vDNetworking) (for `vNugglets.VDNetworking` PowerShell module)
